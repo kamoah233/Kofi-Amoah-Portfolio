@@ -2,6 +2,8 @@
 
 Kofi Amoah Professional Portfolio - TEST RUN
 
+<img src="portfolio-website.jpeg">
+
 |Platforms| Links |
 |---------|-------|
 |LinkedIn | <https://www.linkedin.com/in/kofi-amoah-7b353119b/> |
