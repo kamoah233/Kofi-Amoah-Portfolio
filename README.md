@@ -2,7 +2,7 @@
 
 Kofi Amoah Professional Portfolio - TEST RUN
 
-<img src="/images/portfolio-website.jpeg" width = "450" height = "400" >
+<img src="/images/portfolio-website.jpeg" width = "400" height = "400" >
 
 |Platforms| Links |
 |---------|-------|
